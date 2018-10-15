@@ -1,0 +1,5 @@
+You are required to:
+
+1. Provide 'credentials.json' for authorization
+2. Generate 'token.json' for first time authorization
+3. Know about optional dependency 'mbstring'
